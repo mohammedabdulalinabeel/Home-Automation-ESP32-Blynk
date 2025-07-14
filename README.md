@@ -64,6 +64,10 @@ This IoT-based home automation project is designed to control household applianc
 3. **Relay modules or LEDs** simulate the activation of **light and fan**.
 4. Circuit and logic can also be tested in **Wokwi** using LEDs instead of actual hardware.
 
+-----
+## 🔧 Circuit Diagram
+<img width="891" height="751" alt="image" src="https://github.com/user-attachments/assets/26922f72-9faf-4f6a-a6e9-e7fffa324221" />
+
 ---
 
 ## 💻 Code Snippet
@@ -81,9 +85,6 @@ void loop() {
   // Logic triggered via Blynk (use BLYNK_WRITE() in real deployment)
 }
 
-
-## 🔧 Circuit Diagram
-<img width="891" height="751" alt="image" src="https://github.com/user-attachments/assets/26922f72-9faf-4f6a-a6e9-e7fffa324221" />
 
 
 
