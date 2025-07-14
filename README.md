@@ -1,4 +1,21 @@
-# Home-Automation-ESP32-Blynk
+# 🏠 Home Automation System (ESP32 + Blynk)
+
+This project is a smart home automation system using ESP32, controlling Light and Fan using the Blynk app.
+
+## 🔗 Wokwi Simulation
+👉 [Open Wokwi Simulation](https://wokwi.com/projects/your-link-here)
+
+## 📱 Blynk Setup
+- Virtual Pin V0: Light Control
+- Virtual Pin V1: Fan Control
+
+## 🔧 Circuit Diagram
+![Circuit](circuit.png)
+
+## 🧠 How it Works
+- ESP32 connects to WiFi
+- Blynk mobile app sends commands to turn on/off LEDs (simulate fan/light)
+
 
 
 
