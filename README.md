@@ -10,7 +10,8 @@ This project is a smart home automation system using ESP32, controlling Light an
 - Virtual Pin V1: Fan Control
 
 ## 🔧 Circuit Diagram
-![Circuit](circuit.png)
+<img width="891" height="751" alt="image" src="https://github.com/user-attachments/assets/26922f72-9faf-4f6a-a6e9-e7fffa324221" />
+
 
 ## 🧠 How it Works
 - ESP32 connects to WiFi
@@ -24,4 +25,3 @@ This project is a smart home automation system using ESP32, controlling Light an
 
 
 
-<img width="891" height="751" alt="image" src="https://github.com/user-attachments/assets/26922f72-9faf-4f6a-a6e9-e7fffa324221" />
