@@ -31,8 +31,8 @@ This IoT-based home automation project is designed to control household applianc
 | Component           | Quantity |
 |---------------------|----------|
 | ESP32 Dev Module    | 1        |
-| Relay Module (or LEDs) | 2    |
-| Push Buttons (for simulation) | 2 (optional) |
+| Relay Module , LEDs | 4,4    |
+| Push Buttons        | 4  |
 | Jumper Wires        | As needed |
 | Breadboard          | 1        |
 | Smartphone (with Blynk App) | 1 |
